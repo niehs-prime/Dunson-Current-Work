@@ -2,7 +2,7 @@
 
 Much of our work is ongoing across multiple repositories, so we have collected links and descriptions here:
 
-**Bayesian Factor Analysis for Inference on Interactions**
+**Bayesian Factor Analysis for Inference on Interactions**<br />
 *Authors*: Federico Ferrari and David B. Dunson
 *Github*: https://github.com/fedfer/factor_interactions
 *ArXiv*: https://arxiv.org/abs/1904.11603
