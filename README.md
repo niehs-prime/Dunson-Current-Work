@@ -11,7 +11,8 @@ This article is motivated by the problem of inference on interactions among chem
 **Bayesian Sparse and Smooth Supervised Factor Analysis (bs3fa):** <br /> 
 *Authors*: Kelly R. Moran and David B. Dunson <br /> 
 *Github*: https://github.com/kelrenmor/bs3fa <br /> 
-bs3fa is a package for Bayesian sparse and smooth supervised factor analysis. This model is appropriate for data in which you observe functional Y and numeric (continuous, binary, count) data X. The model assumes all variation in Y is explained by some low-dimensional factors eta, and these factors also explain part (but not all) of the variation in X.
+*ArXiv*: http://arxiv.org/abs/1912.12228 <br /> 
+bs3fa is a package for Bayesian sparse and smooth supervised factor analysis. This model is appropriate for data in which you observe functional Y and numeric (continuous, binary, count) data X. The model assumes all variation in Y is explained by some low-dimensional factors eta, and these factors also explain part (but not all) of the variation in X. The bs3fa model is motivated by data from the ToxCast high throughput screening program. The article described the model and its application to an assay from the ToxCast database.
 
 
 **Bayesian Factor Analysis and Postprocessing in R:** <br /> 
